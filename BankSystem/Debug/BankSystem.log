@@ -1,0 +1,11 @@
+﻿  main3.cpp
+c:\users\kevin gee\desktop\visual studio projects\banksystem\main3.cpp(57): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\kevin gee\desktop\visual studio projects\banksystem\main3.cpp(68): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\kevin gee\desktop\visual studio projects\banksystem\main3.cpp(77): warning C4018: '<': signed/unsigned mismatch
+  Savings.cpp
+  Checking.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Bank.cpp
+  Account.cpp
+  BankSystem.vcxproj -> C:\Users\Kevin Gee\Desktop\Visual Studio Projects\BankSystem\Debug\BankSystem.exe
